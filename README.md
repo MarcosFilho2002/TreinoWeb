@@ -1,2 +1,2 @@
-# TreinoWeb
+## Treino Web
 Mini projetos web
